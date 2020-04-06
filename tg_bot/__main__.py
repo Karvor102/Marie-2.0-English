@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hey {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot developed by  [this person](tg://user?id={}).
+i am a group manager [Bot(tg://user?id={}).
 
 My updates will be released in This Channel - @KarvorTech .
 
@@ -40,8 +40,7 @@ Hey! my name *{}*.
 *Main* available commands:
  - /start: Start the bot...
  - /help: help....
- ㅤㅤㅤ
- - /settings:
+ ㅤㅤㅤ- /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
 
